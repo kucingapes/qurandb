@@ -51378,572 +51378,572 @@
       {
         "ChapterID": "1",
         "ChapterName": "AL FAATIHAH",
-        "Translate": "Chapter001.xml"
+        "FileName": "Chapter001.xml"
       },
       {
         "ChapterID": "2",
         "ChapterName": "AL BAQARAH",
-        "Translate": "Chapter002.xml"
+        "FileName": "Chapter002.xml"
       },
       {
         "ChapterID": "3",
-        "ChapterName": "ALI IMRAN",
-        "Translate": "Chapter003.xml"
+        "ChapterName": "ALI AALI IMRAN",
+        "FileName": "Chapter003.xml"
       },
       {
         "ChapterID": "4",
         "ChapterName": "AN NISAA'",
-        "Translate": "Chapter004.xml"
+        "FileName": "Chapter004.xml"
       },
       {
         "ChapterID": "5",
         "ChapterName": "AL MAAIDAH",
-        "Translate": "Chapter005.xml"
+        "FileName": "Chapter005.xml"
       },
       {
         "ChapterID": "6",
         "ChapterName": "AL AN'AAM",
-        "Translate": "Chapter006.xml"
+        "FileName": "Chapter006.xml"
       },
       {
         "ChapterID": "7",
         "ChapterName": "AL A'RAAF",
-        "Translate": "Chapter007.xml"
+        "FileName": "Chapter007.xml"
       },
       {
         "ChapterID": "8",
         "ChapterName": "AL A'RAAF",
-        "Translate": "Chapter008.xml"
+        "FileName": "Chapter008.xml"
       },
       {
         "ChapterID": "9",
         "ChapterName": "AT TAUBAH",
-        "Translate": "Chapter009.xml"
+        "FileName": "Chapter009.xml"
       },
       {
         "ChapterID": "10",
         "ChapterName": "YUNUS",
-        "Translate": "Chapter010.xml"
+        "FileName": "Chapter010.xml"
       },
       {
         "ChapterID": "11",
         "ChapterName": "HUD",
-        "Translate": "Chapter011.xml"
+        "FileName": "Chapter011.xml"
       },
       {
         "ChapterID": "12",
         "ChapterName": "YUSUF",
-        "Translate": "Chapter012.xml"
+        "FileName": "Chapter012.xml"
       },
       {
         "ChapterID": "13",
         "ChapterName": "AR RA'D",
-        "Translate": "Chapter013.xml"
+        "FileName": "Chapter013.xml"
       },
       {
         "ChapterID": "14",
         "ChapterName": "IBRAHIM",
-        "Translate": "Chapter014.xml"
+        "FileName": "Chapter014.xml"
       },
       {
         "ChapterID": "15",
         "ChapterName": "AL HIJR",
-        "Translate": "Chapter015.xml"
+        "FileName": "Chapter015.xml"
       },
       {
         "ChapterID": "16",
         "ChapterName": "AL NAHL",
-        "Translate": "Chapter016.xml"
+        "FileName": "Chapter016.xml"
       },
       {
         "ChapterID": "17",
         "ChapterName": "AL ISRAA'",
-        "Translate": "Chapter017.xml"
+        "FileName": "Chapter017.xml"
       },
       {
         "ChapterID": "18",
         "ChapterName": "AL KAHFI",
-        "Translate": "Chapter018.xml"
+        "FileName": "Chapter018.xml"
       },
       {
         "ChapterID": "19",
         "ChapterName": "MARYAM",
-        "Translate": "Chapter019.xml"
+        "FileName": "Chapter019.xml"
       },
       {
         "ChapterID": "20",
         "ChapterName": "TAHA",
-        "Translate": "Chapter020.xml"
+        "FileName": "Chapter020.xml"
       },
       {
         "ChapterID": "21",
         "ChapterName": "AL ANBIYAA'",
-        "Translate": "Chapter021.xml"
+        "FileName": "Chapter021.xml"
       },
       {
         "ChapterID": "22",
         "ChapterName": "AL HAJJ",
-        "Translate": "Chapter022.xml"
+        "FileName": "Chapter022.xml"
       },
       {
         "ChapterID": "23",
         "ChapterName": "AL MU'MINUUN",
-        "Translate": "Chapter023.xml"
+        "FileName": "Chapter023.xml"
       },
       {
         "ChapterID": "24",
         "ChapterName": "AN NUUR",
-        "Translate": "Chapter024.xml"
+        "FileName": "Chapter024.xml"
       },
       {
         "ChapterID": "25",
         "ChapterName": "AL FURQAAN",
-        "Translate": "Chapter025.xml"
+        "FileName": "Chapter025.xml"
       },
       {
         "ChapterID": "26",
         "ChapterName": "ASY SYU'ARAA",
-        "Translate": "Chapter026.xml"
+        "FileName": "Chapter026.xml"
       },
       {
         "ChapterID": "27",
         "ChapterName": "AN NAML",
-        "Translate": "Chapter027.xml"
+        "FileName": "Chapter027.xml"
       },
       {
         "ChapterID": "28",
         "ChapterName": "AL QASAS",
-        "Translate": "Chapter028.xml"
+        "FileName": "Chapter028.xml"
       },
       {
         "ChapterID": "29",
         "ChapterName": "AL 'ANKABUUT",
-        "Translate": "Chapter029.xml"
+        "FileName": "Chapter029.xml"
       },
       {
         "ChapterID": "30",
         "ChapterName": "AR RUUM",
-        "Translate": "Chapter030.xml"
+        "FileName": "Chapter030.xml"
       },
       {
         "ChapterID": "31",
         "ChapterName": "LUQMAN",
-        "Translate": "Chapter031.xml"
+        "FileName": "Chapter031.xml"
       },
       {
         "ChapterID": "32",
         "ChapterName": "AS SAJDAH",
-        "Translate": "Chapter032.xml"
+        "FileName": "Chapter032.xml"
       },
       {
         "ChapterID": "33",
         "ChapterName": "AL AHZAAB",
-        "Translate": "Chapter033.xml"
+        "FileName": "Chapter033.xml"
       },
       {
         "ChapterID": "34",
         "ChapterName": "SABA",
-        "Translate": "Chapter034.xml"
+        "FileName": "Chapter034.xml"
       },
       {
         "ChapterID": "35",
         "ChapterName": "FAATIR",
-        "Translate": "Chapter035.xml"
+        "FileName": "Chapter035.xml"
       },
       {
         "ChapterID": "36",
         "ChapterName": "YAA SIIN",
-        "Translate": "Chapter036.xml"
+        "FileName": "Chapter036.xml"
       },
       {
         "ChapterID": "37",
         "ChapterName": "AS SAAFFAAT",
-        "Translate": "Chapter037.xml"
+        "FileName": "Chapter037.xml"
       },
       {
         "ChapterID": "38",
         "ChapterName": "SAAD",
-        "Translate": "Chapter038.xml"
+        "FileName": "Chapter038.xml"
       },
       {
         "ChapterID": "39",
         "ChapterName": "AZ ZUMAR",
-        "Translate": "Chapter039.xml"
+        "FileName": "Chapter039.xml"
       },
       {
         "ChapterID": "40",
         "ChapterName": "GHAAFIR",
-        "Translate": "Chapter040.xml"
+        "FileName": "Chapter040.xml"
       },
       {
         "ChapterID": "41",
         "ChapterName": "FUSSILAT",
-        "Translate": "Chapter041.xml"
+        "FileName": "Chapter041.xml"
       },
       {
         "ChapterID": "42",
         "ChapterName": "ASY SYUURA",
-        "Translate": "Chapter042.xml"
+        "FileName": "Chapter042.xml"
       },
       {
         "ChapterID": "43",
         "ChapterName": "AZ ZUKHRUF",
-        "Translate": "Chapter043.xml"
+        "FileName": "Chapter043.xml"
       },
       {
         "ChapterID": "44",
         "ChapterName": "AD DUKHAAN",
-        "Translate": "Chapter044.xml"
+        "FileName": "Chapter044.xml"
       },
       {
         "ChapterID": "45",
         "ChapterName": "AL JAATHIYAH",
-        "Translate": "Chapter045.xml"
+        "FileName": "Chapter045.xml"
       },
       {
         "ChapterID": "46",
         "ChapterName": "AL AHQAAF",
-        "Translate": "Chapter046.xml"
+        "FileName": "Chapter046.xml"
       },
       {
         "ChapterID": "47",
         "ChapterName": "MUHAMMAD",
-        "Translate": "Chapter047.xml"
+        "FileName": "Chapter047.xml"
       },
       {
         "ChapterID": "48",
         "ChapterName": "AL FATH",
-        "Translate": "Chapter048.xml"
+        "FileName": "Chapter048.xml"
       },
       {
         "ChapterID": "49",
         "ChapterName": "AL HUJURAAT",
-        "Translate": "Chapter049.xml"
+        "FileName": "Chapter049.xml"
       },
       {
         "ChapterID": "50",
         "ChapterName": "QAAF",
-        "Translate": "Chapter050.xml"
+        "FileName": "Chapter050.xml"
       },
       {
         "ChapterID": "51",
         "ChapterName": "AZ ZAARIYAAT",
-        "Translate": "Chapter051.xml"
+        "FileName": "Chapter051.xml"
       },
       {
         "ChapterID": "52",
         "ChapterName": "AT TUUR",
-        "Translate": "Chapter052.xml"
+        "FileName": "Chapter052.xml"
       },
       {
         "ChapterID": "53",
         "ChapterName": "AN NAJM",
-        "Translate": "Chapter053.xml"
+        "FileName": "Chapter053.xml"
       },
       {
         "ChapterID": "54",
         "ChapterName": "AL QAMAR",
-        "Translate": "Chapter054.xml"
+        "FileName": "Chapter054.xml"
       },
       {
         "ChapterID": "55",
         "ChapterName": "AR RAHMAAN",
-        "Translate": "Chapter055.xml"
+        "FileName": "Chapter055.xml"
       },
       {
         "ChapterID": "56",
         "ChapterName": "AL WAAQI'AH",
-        "Translate": "Chapter056.xml"
+        "FileName": "Chapter056.xml"
       },
       {
         "ChapterID": "57",
         "ChapterName": "AL HADIID",
-        "Translate": "Chapter057.xml"
+        "FileName": "Chapter057.xml"
       },
       {
         "ChapterID": "58",
         "ChapterName": "AL MUJAADALAH",
-        "Translate": "Chapter058.xml"
+        "FileName": "Chapter058.xml"
       },
       {
         "ChapterID": "59",
         "ChapterName": "AL HASYR",
-        "Translate": "Chapter059.xml"
+        "FileName": "Chapter059.xml"
       },
       {
         "ChapterID": "60",
         "ChapterName": "AL MUMTAHANAH",
-        "Translate": "Chapter060.xml"
+        "FileName": "Chapter060.xml"
       },
       {
         "ChapterID": "61",
         "ChapterName": "AS SAFF",
-        "Translate": "Chapter061.xml"
+        "FileName": "Chapter061.xml"
       },
       {
         "ChapterID": "62",
         "ChapterName": "AL JUMU'AH",
-        "Translate": "Chapter062.xml"
+        "FileName": "Chapter062.xml"
       },
       {
         "ChapterID": "63",
         "ChapterName": "AL MUNAAFIQUUN",
-        "Translate": "Chapter063.xml"
+        "FileName": "Chapter063.xml"
       },
       {
         "ChapterID": "64",
         "ChapterName": "AT TAGHAABUN",
-        "Translate": "Chapter064.xml"
+        "FileName": "Chapter064.xml"
       },
       {
         "ChapterID": "65",
         "ChapterName": "AT TALAAQ",
-        "Translate": "Chapter065.xml"
+        "FileName": "Chapter065.xml"
       },
       {
         "ChapterID": "66",
         "ChapterName": "AT TAHRIIM",
-        "Translate": "Chapter066.xml"
+        "FileName": "Chapter066.xml"
       },
       {
         "ChapterID": "67",
         "ChapterName": "AL MULK",
-        "Translate": "Chapter067.xml"
+        "FileName": "Chapter067.xml"
       },
       {
         "ChapterID": "68",
         "ChapterName": "AL QALAM",
-        "Translate": "Chapter068.xml"
+        "FileName": "Chapter068.xml"
       },
       {
         "ChapterID": "69",
         "ChapterName": "AL HAAQQAH",
-        "Translate": "Chapter069.xml"
+        "FileName": "Chapter069.xml"
       },
       {
         "ChapterID": "70",
         "ChapterName": "AL MA'AARIJ",
-        "Translate": "Chapter070.xml"
+        "FileName": "Chapter070.xml"
       },
       {
         "ChapterID": "71",
         "ChapterName": "NUH",
-        "Translate": "Chapter071.xml"
+        "FileName": "Chapter071.xml"
       },
       {
         "ChapterID": "72",
         "ChapterName": "AL JINN",
-        "Translate": "Chapter072.xml"
+        "FileName": "Chapter072.xml"
       },
       {
         "ChapterID": "73",
         "ChapterName": "AL MUZZAMMIL",
-        "Translate": "Chapter073.xml"
+        "FileName": "Chapter073.xml"
       },
       {
         "ChapterID": "74",
         "ChapterName": "AL MUDDATHTHIR",
-        "Translate": "Chapter074.xml"
+        "FileName": "Chapter074.xml"
       },
       {
         "ChapterID": "75",
         "ChapterName": "AL QIAAMAH",
-        "Translate": "Chapter075.xml"
+        "FileName": "Chapter075.xml"
       },
       {
         "ChapterID": "76",
         "ChapterName": "AL INSAAN",
-        "Translate": "Chapter076.xml"
+        "FileName": "Chapter076.xml"
       },
       {
         "ChapterID": "77",
         "ChapterName": "AL MURSALAAT",
-        "Translate": "Chapter077.xml"
+        "FileName": "Chapter077.xml"
       },
       {
         "ChapterID": "78",
         "ChapterName": "AN NABA'",
-        "Translate": "Chapter078.xml"
+        "FileName": "Chapter078.xml"
       },
       {
         "ChapterID": "79",
         "ChapterName": "AN NAAZI'AAT",
-        "Translate": "Chapter079.xml"
+        "FileName": "Chapter079.xml"
       },
       {
         "ChapterID": "80",
         "ChapterName": "'ABASA",
-        "Translate": "Chapter080.xml"
+        "FileName": "Chapter080.xml"
       },
       {
         "ChapterID": "81",
         "ChapterName": "AT TAKWIIR",
-        "Translate": "Chapter081.xml"
+        "FileName": "Chapter081.xml"
       },
       {
         "ChapterID": "82",
         "ChapterName": "AL INFITAAR",
-        "Translate": "Chapter082.xml"
+        "FileName": "Chapter082.xml"
       },
       {
         "ChapterID": "83",
         "ChapterName": "AL MUTAFFIFIIN",
-        "Translate": "Chapter083.xml"
+        "FileName": "Chapter083.xml"
       },
       {
         "ChapterID": "84",
         "ChapterName": "AL INSYIQAAQ",
-        "Translate": "Chapter084.xml"
+        "FileName": "Chapter084.xml"
       },
       {
         "ChapterID": "85",
         "ChapterName": "AL BURUUJ",
-        "Translate": "Chapter085.xml"
+        "FileName": "Chapter085.xml"
       },
       {
         "ChapterID": "86",
         "ChapterName": "AT TAARIQ",
-        "Translate": "Chapter086.xml"
+        "FileName": "Chapter086.xml"
       },
       {
         "ChapterID": "87",
         "ChapterName": "AL A'LAA",
-        "Translate": "Chapter087.xml"
+        "FileName": "Chapter087.xml"
       },
       {
         "ChapterID": "88",
         "ChapterName": "AL GHAASYIYAH",
-        "Translate": "Chapter088.xml"
+        "FileName": "Chapter088.xml"
       },
       {
         "ChapterID": "89",
         "ChapterName": "AL FAJR",
-        "Translate": "Chapter089.xml"
+        "FileName": "Chapter089.xml"
       },
       {
         "ChapterID": "90",
         "ChapterName": "AL BALAD",
-        "Translate": "Chapter090.xml"
+        "FileName": "Chapter090.xml"
       },
       {
         "ChapterID": "91",
         "ChapterName": "ASY SYAMS",
-        "Translate": "Chapter091.xml"
+        "FileName": "Chapter091.xml"
       },
       {
         "ChapterID": "92",
         "ChapterName": "AL LAIL",
-        "Translate": "Chapter092.xml"
+        "FileName": "Chapter092.xml"
       },
       {
         "ChapterID": "93",
         "ChapterName": "ADH DHUHA",
-        "Translate": "Chapter093.xml"
+        "FileName": "Chapter093.xml"
       },
       {
         "ChapterID": "94",
         "ChapterName": "ASY SYARH",
-        "Translate": "Chapter094.xml"
+        "FileName": "Chapter094.xml"
       },
       {
         "ChapterID": "95",
         "ChapterName": "AT TIIN",
-        "Translate": "Chapter095.xml"
+        "FileName": "Chapter095.xml"
       },
       {
         "ChapterID": "96",
         "ChapterName": "AL 'ALAQ",
-        "Translate": "Chapter096.xml"
+        "FileName": "Chapter096.xml"
       },
       {
         "ChapterID": "97",
         "ChapterName": "AL QADR",
-        "Translate": "Chapter097.xml"
+        "FileName": "Chapter097.xml"
       },
       {
         "ChapterID": "98",
         "ChapterName": "AL BAYYINAH",
-        "Translate": "Chapter098.xml"
+        "FileName": "Chapter098.xml"
       },
       {
         "ChapterID": "99",
         "ChapterName": "AZ ZALZALAH",
-        "Translate": "Chapter099.xml"
+        "FileName": "Chapter099.xml"
       },
       {
         "ChapterID": "100",
         "ChapterName": "AL 'AADIYAAT",
-        "Translate": "Chapter100.xml"
+        "FileName": "Chapter100.xml"
       },
       {
         "ChapterID": "101",
         "ChapterName": "AL QAARI'AH",
-        "Translate": "Chapter101.xml"
+        "FileName": "Chapter101.xml"
       },
       {
         "ChapterID": "102",
         "ChapterName": "AT TAKAATHUR",
-        "Translate": "Chapter102.xml"
+        "FileName": "Chapter102.xml"
       },
       {
         "ChapterID": "103",
         "ChapterName": "AL 'ASR",
-        "Translate": "Chapter103.xml"
+        "FileName": "Chapter103.xml"
       },
       {
         "ChapterID": "104",
         "ChapterName": "AL HUMAZAH",
-        "Translate": "Chapter104.xml"
+        "FileName": "Chapter104.xml"
       },
       {
         "ChapterID": "105",
         "ChapterName": "AL FIIL",
-        "Translate": "Chapter105.xml"
+        "FileName": "Chapter105.xml"
       },
       {
         "ChapterID": "106",
         "ChapterName": "QARISY",
-        "Translate": "Chapter106.xml"
+        "FileName": "Chapter106.xml"
       },
       {
         "ChapterID": "107",
         "ChapterName": "AL MAA'UUN",
-        "Translate": "Chapter107.xml"
+        "FileName": "Chapter107.xml"
       },
       {
         "ChapterID": "108",
         "ChapterName": "AL KAUTHAR",
-        "Translate": "Chapter108.xml"
+        "FileName": "Chapter108.xml"
       },
       {
         "ChapterID": "109",
         "ChapterName": "AL KAAFIRUUN",
-        "Translate": "Chapter109.xml"
+        "FileName": "Chapter109.xml"
       },
       {
         "ChapterID": "110",
         "ChapterName": "AN NASR",
-        "Translate": "Chapter110.xml"
+        "FileName": "Chapter110.xml"
       },
       {
         "ChapterID": "111",
         "ChapterName": "AL MASAD",
-        "Translate": "Chapter111.xml"
+        "FileName": "Chapter111.xml"
       },
       {
         "ChapterID": "112",
         "ChapterName": "AL IKHLAAS",
-        "Translate": "Chapter112.xml"
+        "FileName": "Chapter112.xml"
       },
       {
         "ChapterID": "113",
         "ChapterName": "AL FALAQ",
-        "Translate": "Chapter113.xml"
+        "FileName": "Chapter113.xml"
       },
       {
         "ChapterID": "114",
         "ChapterName": "AN NAAS",
-        "Translate": "Chapter114.xml"
+        "FileName": "Chapter114.xml"
       }
     ]
   }
